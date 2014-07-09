@@ -8,10 +8,10 @@ REQUIRED_PACKAGES = [
 
 setup(
     name='pyes-geohash-facet',
-    version='1.0',
+    version='1.1',
     description=('pyes plugin for the geohash facet '
                  '(https://github.com/triforkams/geohash-facet)'),
     author='Przemyslaw Kaminski',
     packages=find_packages(),
     install_requires=REQUIRED_PACKAGES,
- )
+)
